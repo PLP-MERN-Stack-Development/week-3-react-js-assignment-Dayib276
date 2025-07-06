@@ -4,7 +4,7 @@
 Build a responsive React application using JSX and Tailwind CSS that demonstrates component architecture, state management, hooks usage, and API integration.
 
 ## 📂 Tasks
-
+ 
 ### Task 1: Project Setup
 - Create a new React application using Vite
 - Install and configure Tailwind CSS
@@ -31,7 +31,7 @@ Build a responsive React application using JSX and Tailwind CSS that demonstrate
   - `useEffect` for side effects (e.g., loading saved tasks)
   - `useContext` for theme management (light/dark mode)
   - Create a custom hook (e.g., `useLocalStorage`) for persisting tasks
-
+  
 ### Task 4: API Integration
 - Fetch data from a public API (e.g., JSONPlaceholder)
 - Display the fetched data in a list or grid layout
